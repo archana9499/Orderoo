@@ -4,10 +4,10 @@
     "slug": "orderoo",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/delivery.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/delivery.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
